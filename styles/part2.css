@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "poppins-bold";
+  src: url("tools/font/Poppins-Bold.ttf");
+}
+.divider {
+  height: 5px;
+  width: 92%;
+  background-color: #ededed;
+  margin-top: 18px;
+  margin-bottom: 18px;
+  border-radius: 15px;
+}
+.info-div-main {
+  width: 100%;
+}
+.info-div {
+  margin-left: 22px;
+  margin-right: 22px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.part2-title-style {
+  /* font-family: "poppins-bold"; */
+  font-size: 18px;
+  font-weight: bold;
+}
+.part2-content-style {
+  font-size: 18px;
+  font-weight: 500;
+  color: #1c79d7;
+}
